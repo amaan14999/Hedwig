@@ -1,0 +1,15 @@
+{
+  "name": "hedwig",
+  "version": "1.0.0",
+  "description": "File Transfer Web Application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Amaan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2"
+  }
+}
