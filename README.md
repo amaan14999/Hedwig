@@ -105,4 +105,4 @@ Hedwig is a powerful real-time file transfer web application that leverages HTML
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md]([LICENSE.md](https://github.com/amaan14999/Hedwig/blob/main/LICENSE)https://github.com/amaan14999/Hedwig/blob/main/LICENSE) file for details
